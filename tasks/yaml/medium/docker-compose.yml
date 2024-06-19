@@ -1,9 +1,0 @@
-# YAML/Docker - Medium
-
-version: '3'
-
-services:
-  # TODO: Define your services here
-
-networks:
-  # TODO: Define your networks here
